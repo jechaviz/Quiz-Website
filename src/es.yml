@@ -1,0 +1,15 @@
+home:
+  title: "Bienvenido al Quiz"
+  startButton: "Comenzar"
+quiz:
+  header: "Pregunta {current} de {total}"
+  score: "Puntaje: {score}"
+  submit: "Enviar"
+  next: "Siguiente"
+  previous: "Anterior"
+  homeButton: "Volver al inicio"
+result:
+  title: "Resultado del Quiz"
+  scoreText: "Tu puntaje: {score} de {total} ({percentage}%)"
+  tryAgain: "Intentar de nuevo"
+  goHome: "Ir al inicio"
